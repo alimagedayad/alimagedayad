@@ -25,6 +25,13 @@
   <img alt="c++" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>    
+  
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /<
+  
+  
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +47,5 @@
 <h2>My Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=alimagedayad&theme=blue-green&show_icons=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimagedayad&theme=blue-green/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimagedayad&theme=blue-green" />
 <p align="center">This <i>README</i> file is generated <b>every week</b>!</br>Last refresh: Tuesday, 5 April, 11:07 CEST<br/></p>
-
-<img alt="Stars" src="https://img.shields.io/github/stars/alimagedayad/alimagedayad?style=flat-square&labelColor=343b41"/> <img alt="Langs" src="https://img.shields.io/github/forks/alimagedayad/alimagedayad?style=flat-square&labelColor=343b41"/></p>
